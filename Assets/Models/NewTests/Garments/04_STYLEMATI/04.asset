@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de5ce664f5f82e445a861d1bd2d46118, type: 3}
+  m_Name: 04
+  m_EditorClassIdentifier: 
+  DisplayObject: {fileID: 38808632854784041, guid: e36aa7c72960e5d4e8a9aeedcb6fd208, type: 3}
+  boneNames:
+  - mixamorig:Hips
+  - mixamorig:Spine
+  - mixamorig:Spine1
+  - mixamorig:Spine2
+  - mixamorig:Neck
+  - mixamorig:LeftShoulder
+  - mixamorig:LeftArm
+  - mixamorig:RightShoulder
+  - mixamorig:RightArm
+  - mixamorig:LeftUpLeg
+  - mixamorig:RightUpLeg
